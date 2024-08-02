@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pranamimitra
 - 👀 I’m interested in Datas
-- 🌱 I’m currently learning Computer Science and Data Analysis
+- 🌱 Currently pursuing my Btech in Computer Science and learing Data Analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: You can reach me here 👉 https://www.linkedin.com/in/pranamimitra/
 - 😄 Pronouns: She/Her
